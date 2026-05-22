@@ -35,7 +35,7 @@ ShrinkV 智能视频批量压缩器
  <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/paypal.png" width="200" />
 
 ## 下载地址
-   - 📦 **[stable version](https://github.com/xinpenghan/ShrinkV/releases//)**
+   - 📦 **[stable version](https://github.com/xinpenghan/ShrinkV/releases/)**
 
 <br>
 
