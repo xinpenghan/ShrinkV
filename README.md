@@ -16,6 +16,14 @@
 
 ShrinkV Smart Video Batch Compressor
 
+This smart video compression tool differs from other compression tools in that it aims to reduce the time users spend compressing videos and simplify the operation of video compression software. If you don't understand video bitrate (kbps) and frame rate (FPS), and are worried about over-compressing videos, then this software is perfect for you. It comes with built-in compression rules that perfectly compress videos without causing over-compression.
+
+When compressing a single video, you need to check the bitrate (kbps) and frame rate (FPS) of each video file. This is quite tedious, and if you need to compress dozens or hundreds of video files, the workload becomes enormous.
+
+Therefore, I created this compression tool. It automatically matches compression rules according to the video resolution, and you only need to select all the videos in a folder; the software handles the rest.
+
+I've also added an automatic new file monitoring function. When a new file is detected in the folder, it automatically compresses the new video file, saving you a lot of time.
+
 </p>
 <br>
 <table>
