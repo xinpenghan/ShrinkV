@@ -27,12 +27,11 @@ ShrinkV Smart Video Batch Compressor
  <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/paypal.png" width="200" />
 
 ## Download link
-   - 📦 **[stable version](https://github.com/xinpenghan/YoutubeDownloader/releases/)**
+   - 📦 **[stable version](https://github.com/xinpenghan/ShrinkV/releases//)**
 
 <br>
 
 ## Other GitHub projects included in the software
-   - 📦   <a href="https://github.com/yt-dlp/yt-dlp/">yt-dlp</a>
    - 📦   <a href="https://github.com/FFmpeg/FFmpeg">FFmpeg</a>
 
 
