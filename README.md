@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/logo-1.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/logo.png" />
 <br>
 <h3>ShrinkV</h3>
 
