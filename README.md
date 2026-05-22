@@ -39,5 +39,5 @@ ShrinkV Smart Video Batch Compressor
 
 ## Screenshot
 
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/2.png" />
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/5.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/1.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/2.png" />
