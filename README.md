@@ -47,8 +47,7 @@ I've also added an automatic new file monitoring function. When a new file is de
 
 ## Screenshot
 
-<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/1.png" />
-<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/2.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/5.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/6.png" />
 
 
-111
