@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/logo.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/ShrinkV/image/logo.png" />
 <br>
 <h3>ShrinkV</h3>
 
@@ -47,6 +47,5 @@ ShrinkV 智能视频批量压缩器
 
 ## 屏幕截图
 
-<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/6.png" />
-<img alt="Vditor" src="https://www.eblog.top/uploads/ShrinkV/5.png" />
-
+<img alt="Vditor" src="https://xinpenghan.github.io/ShrinkV/image/6.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/ShrinkV/image/5.png" />
