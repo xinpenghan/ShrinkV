@@ -32,7 +32,7 @@ The software also includes an automatic new file monitoring function. When a new
     </tr>
 </table>
 
- <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/paypal.png" width="200" />
+<img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/paypal.png" width="200" />
 
 ## Download link
    - 📦 **[stable version](https://github.com/xinpenghan/ShrinkV/releases//)**

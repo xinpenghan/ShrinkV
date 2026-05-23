@@ -32,7 +32,7 @@ ShrinkV 智能视频批量压缩器
     </tr>
 </table>
 
- <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/paypal.png" width="200" />
+<img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/paypal.png" width="200" />
 
 ## 下载地址
    - 📦 **[stable version](https://github.com/xinpenghan/ShrinkV/releases/)**
