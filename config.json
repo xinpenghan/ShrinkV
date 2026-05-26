@@ -1,0 +1,32 @@
+{
+  "output_folder": "D:\\NEW",
+  "encoder": "H.265 (AMD AMF)",
+  "auto_detect": true,
+  "auto_monitor": false,
+  "monitor_duration": "不限制时间",
+  "language": "zh",
+  "scanned_files": [],
+  "rules": {
+    "360p": {
+      "max_br": 800,
+      "max_fps": 29
+    },
+    "540p": {
+      "max_br": 1500,
+      "max_fps": 29
+    },
+    "720p": {
+      "max_br": 1500,
+      "max_fps": 29
+    },
+    "1080p": {
+      "max_br": 2500,
+      "max_fps": 29
+    },
+    "1080p+": {
+      "max_br": 2500,
+      "max_fps": 29,
+      "scale_to": 1080
+    }
+  }
+}
