@@ -28,7 +28,7 @@ ShrinkV 智能视频批量压缩器
 <br>
 <table>
     <tr>
-        <td width="99999" align="center">本项目完全由个人开发学习使用，我还是个学生，还在上学中.<b><a href="https://www.paypal.com/ncp/payment/E3KMAPWSR2X3S">欢迎捐款资助我</a></b></td>
+        <td width="99999" align="center">本项目完全由个人开发学习使用，我还是个学生，还在上学中.<b><a href="https://app.eblog.top/support.html">欢迎捐款资助我</a></b></td>
     </tr>
 </table>
 
